@@ -1,0 +1,222 @@
+{
+  "1dcf3ded7db3b552": {
+    "link": "https://arxiv.org/abs/2607.02542",
+    "title": "iFLYTEK-Embodied-Omni Technical Report",
+    "seen_at": "2026-07-07T14:21:26.221937"
+  },
+  "2b34c5fe47d6db8d": {
+    "link": "https://arxiv.org/abs/2607.02672",
+    "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+    "seen_at": "2026-07-07T14:21:26.224655"
+  },
+  "fff6d630b63faef5": {
+    "link": "https://arxiv.org/abs/2607.02686",
+    "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+    "seen_at": "2026-07-07T14:21:26.227232"
+  },
+  "321251372a7a9f3b": {
+    "link": "https://arxiv.org/abs/2607.02771",
+    "title": "Automated Data Readiness for Scientific AI",
+    "seen_at": "2026-07-07T14:21:26.229403"
+  },
+  "6e2422a1b4fbb124": {
+    "link": "https://arxiv.org/abs/2607.02807",
+    "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+    "seen_at": "2026-07-07T14:21:26.231396"
+  },
+  "13834e2ce435df59": {
+    "link": "https://arxiv.org/abs/2607.02846",
+    "title": "Object-Centric Environment Modeling for Agentic Tasks",
+    "seen_at": "2026-07-07T14:21:26.233711"
+  },
+  "2ee1d41e28409fa5": {
+    "link": "https://arxiv.org/abs/2607.02879",
+    "title": "MedCalc-Pro: Solving Complex Medical Calculations with LLM Agents",
+    "seen_at": "2026-07-07T14:21:26.236022"
+  },
+  "2f9b99ec05149dfc": {
+    "link": "https://arxiv.org/abs/2607.02914",
+    "title": "Oyster-II: Reinforcement Learning for Constructive Safety Alignment in Large Language Models",
+    "seen_at": "2026-07-07T14:21:26.238422"
+  },
+  "bf0108fc90a0259a": {
+    "link": "https://arxiv.org/abs/2607.02931",
+    "title": "VERITAS: Towards a General-Purpose Replication Tool for Scientific Research",
+    "seen_at": "2026-07-07T14:21:26.240745"
+  },
+  "d69b5a3d3b2562e8": {
+    "link": "https://arxiv.org/abs/2607.02941",
+    "title": "A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-P",
+    "seen_at": "2026-07-07T14:21:26.243076"
+  },
+  "d9d2986f52f5aae7": {
+    "link": "https://arxiv.org/abs/2607.02975",
+    "title": "Evaluating Generative Agents with Actions Grounded in Socially Distributed Task Environments using I",
+    "seen_at": "2026-07-07T14:21:26.246012"
+  },
+  "058a79ccf4909e6d": {
+    "link": "https://arxiv.org/abs/2607.02983",
+    "title": "Reinforcement Learning for Evidence-Seeking Diagnostic Reasoning with Large Language Models",
+    "seen_at": "2026-07-07T14:21:26.248138"
+  },
+  "edda015279ffd8ef": {
+    "link": "https://arxiv.org/abs/2607.03015",
+    "title": "Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents",
+    "seen_at": "2026-07-07T14:21:26.249709"
+  },
+  "8ebbcb153436fd36": {
+    "link": "https://arxiv.org/abs/2607.03025",
+    "title": "Human-Centric Reflective Architecture for Human-AI Collaborative Decision-Making",
+    "seen_at": "2026-07-07T14:21:26.251868"
+  },
+  "2340d16fc430e171": {
+    "link": "https://arxiv.org/abs/2607.03091",
+    "title": "Silicon Sampling via Cross-Survey Transfer",
+    "seen_at": "2026-07-07T14:21:26.254173"
+  },
+  "f8f29002138b65be": {
+    "link": "https://arxiv.org/abs/2607.03162",
+    "title": "APeB: Benchmarking Personalization Ability of Large Language Model Agents",
+    "seen_at": "2026-07-07T14:21:26.256125"
+  },
+  "f2e4e4eabeb7fe4c": {
+    "link": "https://arxiv.org/abs/2607.03228",
+    "title": "Organizational Memory for Agentic Business Process Execution",
+    "seen_at": "2026-07-07T14:21:26.258135"
+  },
+  "567c7005372f1c72": {
+    "link": "https://arxiv.org/abs/2607.03283",
+    "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+    "seen_at": "2026-07-07T14:21:26.260944"
+  },
+  "13405853ce2043a9": {
+    "link": "https://arxiv.org/abs/2607.03303",
+    "title": "Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students' Independent LLM ",
+    "seen_at": "2026-07-07T14:21:26.263401"
+  },
+  "e3fd9149ee06e1b2": {
+    "link": "https://arxiv.org/abs/2607.03386",
+    "title": "When Aggregate Alignment Misleads: Auditing Policy Repair Without Per-State Expert Actions",
+    "seen_at": "2026-07-07T14:21:26.266148"
+  },
+  "1f8b199190d8fed3": {
+    "link": "https://arxiv.org/abs/2607.02586",
+    "title": "Auditing the Audit: Five Failure Modes in Benchmark-Validity Audits",
+    "seen_at": "2026-07-07T14:21:26.268210"
+  },
+  "5afd18d085d10c8c": {
+    "link": "https://arxiv.org/abs/2607.02668",
+    "title": "Improving LLMs via Validator-to-Generator Alignment",
+    "seen_at": "2026-07-07T14:21:26.270399"
+  },
+  "3d49024c84a2f01c": {
+    "link": "https://arxiv.org/abs/2607.03394",
+    "title": "From Mobile Data to Business Insights: An End-to-End Analytics Framework for Large-Scale Urban Mobil",
+    "seen_at": "2026-07-07T21:30:09.202035"
+  },
+  "2a64f7ac90e5c5e4": {
+    "link": "https://arxiv.org/abs/2607.03397",
+    "title": "Efficient bias mitigation in T2I diffusion models using Concept Graphs",
+    "seen_at": "2026-07-07T21:30:09.202035"
+  },
+  "e7e30ff9c6ca9f1c": {
+    "link": "https://arxiv.org/abs/2607.03425",
+    "title": "Personalized Causal Recourse: A Human-In-The-Loop Approach",
+    "seen_at": "2026-07-07T21:30:09.202035"
+  },
+  "8e2e6621673c84bb": {
+    "link": "https://arxiv.org/abs/2607.03478",
+    "title": "Demonstrating Generalization Failures via Mixtures of Conditional Policies",
+    "seen_at": "2026-07-07T21:30:09.202035"
+  },
+  "dbb249ac2f87a2af": {
+    "link": "https://arxiv.org/abs/2607.03530",
+    "title": "MentalThink: Shaping Thoughts in Mental SVG World",
+    "seen_at": "2026-07-07T21:30:09.212006"
+  },
+  "e6b7ce9a2ec85109": {
+    "link": "https://arxiv.org/abs/2607.03550",
+    "title": "Applying Answer Set Programming with Fuzzy Membership Functions: a Case Study",
+    "seen_at": "2026-07-07T21:30:09.212006"
+  },
+  "100b155e110b6d24": {
+    "link": "https://arxiv.org/abs/2607.03561",
+    "title": "How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs",
+    "seen_at": "2026-07-07T21:30:09.212006"
+  },
+  "ed2de212ad1e43f6": {
+    "link": "https://arxiv.org/abs/2607.03634",
+    "title": "The Role of Rigor in Artificial Intelligence",
+    "seen_at": "2026-07-07T21:30:09.212006"
+  },
+  "3399b66faecb9567": {
+    "link": "https://arxiv.org/abs/2607.03694",
+    "title": "Robust Feasible Route Construction through Collaborative Partition Optimization",
+    "seen_at": "2026-07-07T21:30:09.222023"
+  },
+  "cadacdb4f6e3b8d7": {
+    "link": "https://arxiv.org/abs/2607.03702",
+    "title": "Agent Reinforcement Learning via Pivotal-Aware Self-Feedback Retry",
+    "seen_at": "2026-07-07T21:30:09.222023"
+  },
+  "591d7a3eee1c22fb": {
+    "link": "https://arxiv.org/abs/2607.03703",
+    "title": "Explainable Reinforcement Learning for Adaptive Traffic Signal Control",
+    "seen_at": "2026-07-07T21:30:09.222023"
+  },
+  "35a9ef5a6c9f5d55": {
+    "link": "https://arxiv.org/abs/2607.03744",
+    "title": "Can Conversational Temporal Dynamics Improve Depression Detection in Dyads? A Preliminary Investigat",
+    "seen_at": "2026-07-07T21:30:09.222023"
+  },
+  "6c2a6b0996300e3d": {
+    "link": "https://arxiv.org/abs/2607.03748",
+    "title": "Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process",
+    "seen_at": "2026-07-07T21:30:09.232014"
+  },
+  "cc256d249222d72d": {
+    "link": "https://arxiv.org/abs/2607.03787",
+    "title": "Folding, Reasoning, and Scaling with Open-source Drug Discovery Engine",
+    "seen_at": "2026-07-07T21:30:09.232014"
+  },
+  "8d3ec59338f6ae55": {
+    "link": "https://arxiv.org/abs/2607.03870",
+    "title": "Evaluating LLM Uncertainty in Long-Form Generation Using Deterministic Ground Truth",
+    "seen_at": "2026-07-07T21:30:09.232014"
+  },
+  "88f29302fce107fe": {
+    "link": "https://arxiv.org/abs/2607.03935",
+    "title": "Harness-Aware Self-Evolving: Co-Evolving Model Weights, Harness, and Task Solutions",
+    "seen_at": "2026-07-07T21:30:09.232014"
+  },
+  "ad0dd3866bc997fe": {
+    "link": "https://arxiv.org/abs/2607.03948",
+    "title": "Online Linear Programming for Multi-Objective Routing in LLM Serving",
+    "seen_at": "2026-07-07T21:30:09.232014"
+  },
+  "ff4cae95a85740c5": {
+    "link": "https://arxiv.org/abs/2607.04010",
+    "title": "Explainable AI for Screening Abuse-Related Trauma in Bangladeshi Children: A Training-Free Multimoda",
+    "seen_at": "2026-07-07T21:30:09.241992"
+  },
+  "d64443984ec11660": {
+    "link": "https://arxiv.org/abs/2607.04049",
+    "title": "What is Left for Us? Second Scholarship Against the Degradation of Research by AI",
+    "seen_at": "2026-07-07T21:30:09.241992"
+  },
+  "5d51c5fa60a2b742": {
+    "link": "https://arxiv.org/abs/2607.04089",
+    "title": "PLACEMEM: Toward a Compute-Aware Memory Plane for Lifelong Agents",
+    "seen_at": "2026-07-07T21:30:09.241992"
+  },
+  "6056a9f55ea4d4a4": {
+    "link": "https://arxiv.org/abs/2607.02623",
+    "title": "Evaluating Time Series Foundation Models for Electricity Price Forecasting: Contamination Risk, Dist",
+    "seen_at": "2026-07-07T21:30:09.252024"
+  },
+  "a05459ffff40432b": {
+    "link": "https://arxiv.org/abs/2607.02734",
+    "title": "Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob ",
+    "seen_at": "2026-07-07T21:30:09.254228"
+  }
+}
